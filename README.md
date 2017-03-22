@@ -1,6 +1,6 @@
 # NEECF: Nutrient Enrichment Experiments in China’s Forest
 
-R Scripts for the data analyses for the manuscript of nitrogen addition effect on soil enzyme activities in the NEECF project.
+R Scripts for the manuscript of nitrogen addition effect on soil enzyme activities in the NEECF project.
 V4 is the latest version of the data analyses
 
 A manuscrit has been submitted to Science of the Total Science based on the results of the data analyses on March 22, 2017
