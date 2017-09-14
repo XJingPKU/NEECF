@@ -10,6 +10,6 @@ A manuscrit has been submitted to Science of the Total Science based on the R s
 
 **Corresponding author:** Biao Zhu <biaozhu@pku.edu.cn>
 
-The manuscriot has been accepted by the Science of the Total Science on July 13, 2017  
+The manuscriot has been accepted by the Science of the Total Environment on July 13, 2017  
 
-**Citation:** Jing, X., Chen, X., Tang, M., Ding, Z., Jiang, L., Li, P., Ma, S., Tian, D., Xu, L., Zhu, J. and Ji, C., 2017. Nitrogen deposition has minor effect on soil extracellular enzyme activities in six Chinese forests. Science of The Total Environment, 607, pp.806-815.
+**Citation:** Jing, X., Chen, X., Tang, M., Ding, Z., Jiang, L., Li, P., Ma, S., Tian, D., Xu, L., Zhu, J. and Ji, C., 2017. Nitrogen deposition has minor effect on soil extracellular enzyme activities in six Chinese forests. Science of the Total Environment, 607, pp.806-815.
